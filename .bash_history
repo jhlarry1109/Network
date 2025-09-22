@@ -334,3 +334,254 @@ tree
 cd ..
 rm ch02
 rm -r ch02
+git -verson
+git -versin
+git -version
+git --version
+mkdir ch02 touch
+cd
+cd ch02
+touch index.py
+ls
+mkdir static touch
+ls
+rm -r touch
+ls
+mkdir templates
+ls
+cd static
+touch index.js
+ls
+cd ..
+ls
+cd templates
+touch index.html
+cd
+cd templates
+cd ch02
+cd templates
+ls
+cd ..
+cd
+git init
+git __intit
+git remote add origin "https://github.com/woo-rin/Raspberry-Pi.git"
+git add .
+git commit
+git commit -m"dd"
+git push
+git pull origin main
+git config pull.rebase true
+git pull origin main
+git init
+git remote -v
+git pull --rebase origin main
+git status
+git add .
+git commit -m "Add new files and folders"
+git commit -m "dd"
+git add .
+git commit -m "dddddd"
+git status
+ls
+cd ch02
+ls
+cd
+git status
+ls
+git add ch02
+git comit -m "재발"
+git commit -m "재발"
+git add ch02
+git status
+ls
+cd ch02
+git add .
+git commit -m "커밋"
+ls
+cd templates/
+ls
+vi index.html
+ls
+cd ..
+ls
+cd ch02
+ls
+cd static
+ls
+vi index.js
+ls
+cd ..
+cd templates
+ls
+cd index.html
+vi index.html
+npm install bootstrap@5.3.8
+sudo npm install bootstrap@5.3.8
+sudo gem install bootstrap -v 5.3.8
+cd ..
+git remote add https://github.com/jhlarry1109/Network.git
+git remote add origin https://github.com/jhlarry1109/Network.git
+git add .
+git commit -m "ssr"
+git push origin main
+git push origin master
+git remote -v
+git remote set-url origin https://github.com/jhlarry1109/Raspberry-Pi.git
+git remote -v
+git push origin master
+git remote set-url origin https://github.com/jhlarry1109/Network.git
+git push origin master
+cd index.py
+ls
+vi index.py
+git add .
+git commit -m "커밋"
+git push origin main
+git push origin master
+ls
+cd static
+ls
+cd ..
+ls
+templates
+ls
+cd templates
+ls
+vi index.html
+git add .
+git commit -m "html"
+git push origin master
+cd ..
+ls
+cd templates
+vi index.html
+git add .
+git commit -m "fixed"
+git push origin master
+ls
+cd ch02
+ls
+cd static
+ls
+sudo apt install python3-rpi.gpio
+sudo pip3 install RPi.GPIO
+sudo apt install python3-rpi.gpio
+sudo rm /usr/lib/python3.12/EXTERNALLY-MANAGED
+sudo apt install python3-pip
+sudo apt update
+sudo pip3 install RPi.GPIO
+sudo update
+sudo apt update
+sudo apt install python3-rpi.grio
+sudo apt update
+sudo apt install python3-rpi.gpio
+ls
+mkdir ch03
+cd ch03
+touch test_led.py
+vi test_led.py
+ls
+touch index.py
+mkdir static
+ls
+mkdir templates
+cd static
+mkdir index.js
+cd ..
+cd templates
+touch index.html
+ls
+cd ..
+ls
+2. 화면 만들기
+sudo apt-get install tree
+tree
+sudo run test_led.py
+sudo python3 test_led.py
+git remote -v
+git add .
+git commit -m "나는 이우린이다"
+git push
+clear
+grep -i port /etc/ssh/sshd_config
+cd static
+ls
+rm -rf index.js
+ls
+touch index.js
+ls
+cd ..
+tree
+vi index.py
+cd static
+vi index.js
+cd ..
+cd templates
+vi index.html
+sudo python3 index.py
+cd ..
+sudo python3 index.py
+vi index.py
+sudo python3 index.py
+pip3 install flask
+sudo apt update
+sudo apt install python3-flask
+sudo python3 index.py
+ss -tulpn | grep 5000
+sudo ufw status
+python3 index.py
+sudo ubuntu@ubuntu:~/ch03$ python3 index.py
+Traceback (most recent call last):
+RuntimeError: No access to /dev/mem.  Try running as root!
+ubuntu@ubuntu:~/ch03$ 
+sudo python3 index.py
+ls
+vi index.py
+sudo python3 index.py
+vi index.py
+sudo python3 index.py
+vi index.py
+ls
+cd static
+ls
+vi index.js
+sudo python3 index.py
+cd ..
+sudo python3 index.py
+ls
+vi index
+vi index.py
+sudo python3 index.py
+vi index.py
+sudo python3 index.py
+cd static
+vi index.js
+sudo python3 index.py
+cd ..
+sudo python3 index.py
+cd ch03
+sudo apt update
+sudo apt install mysql-server
+sudo systemctl start mysql
+sudo systemctl enable mysql
+sudo mysql -u root -p
+vi index.py
+sudo python3 index.py
+sudo pip3 install pymysql
+sudo apt install python3-pymysql
+sudo python3 index.py
+ls
+vi index.py
+touch db_model.py
+vi db_model.py
+sudo python3 index.py
+sudo mysql
+ls
+vi db_model.py
+vi index.py
+sudo python3 index.py
+sudo mysql
+sudo python3 index.py
+sudo mysql
+vi index.py
